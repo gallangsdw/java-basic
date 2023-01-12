@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="StrukturDasar:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f582ba1-ceb2-43c4-a3d2-44d6e89147a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="StrukturDasar" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KBeKzrEIw8uM7L1B8xPad4HkQ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dasar" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java course\dicoding\StrukturDasar\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.basic.Main" />
+      <module name="StrukturDasar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f582ba1-ceb2-43c4-a3d2-44d6e89147a8" name="Default Changelist" comment="" />
+      <created>1673452343931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673452343931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1673452873083">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673452873083" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1673454406404">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673454406404" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1673455034379">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673455034379" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1673455034379">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673455034379" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1673455034379">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673455034379" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1673455034379">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673455034379" />
+    <state x="440" y="90" key="SettingsEditor" timestamp="1673454898755">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="90" key="SettingsEditor/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673454898755" />
+    <state x="342" y="136" key="new project wizard" timestamp="1673488710562">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="342" y="136" key="new project wizard/-1920.3.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673488710562" />
+  </component>
+</project>
